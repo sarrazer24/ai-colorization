@@ -7,18 +7,20 @@ the **COCO 2017** dataset, then selected a baseline **UNet-CGAN** for
 the deployed web application because of its stable training behavior and
 efficient inference.
 
-```{=html}
 <p align="center">
-```
-`<a href="https://aicolorization.streamlit.app/">`{=html}`<strong>`{=html}Try
-the live demo`</strong>`{=html}`</a>`{=html} ·
-`<a href="https://github.com/sarrazer24/ai-colorization">`{=html}`<strong>`{=html}Source
-code`</strong>`{=html}`</a>`{=html} ·
-`<a href="https://huggingface.co/amelakh/best_cgan_V1">`{=html}`<strong>`{=html}Model
-weights`</strong>`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://aicolorization.streamlit.app/">
+    <strong>Try the Live Demo</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sarrazer24/ai-colorization">
+    <strong>Source Code</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://huggingface.co/amelakh/best_cgan_V1">
+    <strong>Model Weights</strong>
+  </a>
 </p>
-```
+
 ## Overview
 
 Image colorization is an inherently ambiguous computer vision task: a
